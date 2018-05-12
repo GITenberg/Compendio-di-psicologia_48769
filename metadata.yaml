@@ -1,15 +1,21 @@
 _repo: Compendio-di-psicologia_48769
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Agliardi, Luigi
     gutenberg_agent_id: '44962'
     url: http://www.gutenberg.org/2009/agents/44962
+covers:
+- cover_type: archival
+  image_path: 48769-h/images/cover.jpg
 creator:
   author:
     agent_name: Wundt, Wilhelm Max
     gutenberg_agent_id: '42602'
     url: http://www.gutenberg.org/2009/agents/42602
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48769#Compendio-di-psicologia
 gutenberg_bookshelf: IT Psicologia e Sociologia
 gutenberg_issued: '2015-04-23'
 gutenberg_type: Text
